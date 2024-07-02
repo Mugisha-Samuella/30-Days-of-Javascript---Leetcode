@@ -8,3 +8,5 @@ function customSort(arr, fn) {
     // Extract and return sorted elements from mapped array
     return mapped.map(item => item.original);
 }
+
+///HAS A RUNTIME ERROR
